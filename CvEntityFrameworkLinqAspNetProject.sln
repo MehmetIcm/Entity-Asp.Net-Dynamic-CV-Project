@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CvEntityFrameworkLinqAspNetProject", "CvEntityFrameworkLinqAspNetProject\CvEntityFrameworkLinqAspNetProject.csproj", "{8E561B05-9C85-40C7-B28E-172CFDCEB37D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E561B05-9C85-40C7-B28E-172CFDCEB37D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8E561B05-9C85-40C7-B28E-172CFDCEB37D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8E561B05-9C85-40C7-B28E-172CFDCEB37D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8E561B05-9C85-40C7-B28E-172CFDCEB37D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BDC8E69-F86E-4470-BC98-A800F1B497F6}
+	EndGlobalSection
+EndGlobal
